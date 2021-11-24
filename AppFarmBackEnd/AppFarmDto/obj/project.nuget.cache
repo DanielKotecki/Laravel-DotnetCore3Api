@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Q6zTgnFQO7FwJz/Y0PdbJoVNAtQ82OsOYMGhJTWrWSp6Xn0pu1KPERWnyn4ftg7/KlvXh6Bjakotr7mxL7Fjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Nowy folder\\AppFarmBackEnd\\AppFarmDto\\AppFarmDto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

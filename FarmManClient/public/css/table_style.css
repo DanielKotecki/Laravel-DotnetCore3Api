@@ -1,0 +1,17 @@
+th:hover{
+cursor: pointer;
+}
+table th.asc:after {
+    display: block;
+    border-style: solid;
+    border-width: 0 5px 10px 5px;
+    border-color: transparent transparent black transparent;
+}
+
+table th.desc:after {
+    display: block;
+    border-style: solid;
+    border-width: 10px 5px 0 5px;
+    border-color: black transparent transparent transparent;
+}
+

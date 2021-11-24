@@ -1,0 +1,73 @@
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\source\repos\AppFarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csprojAssemblyReference.cache
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csprojAssemblyReference.cache
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\xampp\htdocs\Laravel\FinalneApiAppfarm\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csprojAssemblyReference.cache
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\xampp\htdocs\Inżynierka\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csprojAssemblyReference.cache
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csprojAssemblyReference.cache
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Nowy folder\09.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csprojAssemblyReference.cache
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Nowy folder\16.02.2021\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csprojAssemblyReference.cache
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Komputer\Desktop\Inżynierka Final\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.deps.json
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\bin\Debug\netstandard2.0\AppFarmDto.pdb
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.dll
+C:\Users\Daniel\Desktop\Nowy folder\AppFarmBackEnd\AppFarmDto\obj\Debug\netstandard2.0\AppFarmDto.pdb
